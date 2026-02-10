@@ -2,7 +2,7 @@
 
 Welcome to the digital sanctuary of **LWa7ch**. 
 
-This blog is dedicated to the pursuit of absolute technical mastery in the field of cybersecurity. Here, we don't just solve challenges; we dissect the very fabric of binary logic, exploring the vulnerabilities that lie beneath the surface of modern software.
+This blog is dedicated to the pursuit of absolute technical expertise in the field of cybersecurity and AI engineering. Here, we don't just solve challenges; we dissect the very fabric of binary logic, exploring the vulnerabilities that lie beneath the surface of modern software.
 
 ## Our Philosophy
 
