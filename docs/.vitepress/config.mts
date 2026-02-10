@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
     title: "LWa7ch's Blogs",
-    description: "Cybersecurity & CTF Exploitation - Master Write-ups",
+    description: "Cybersecurity & CTF Exploitation - Advanced Write-ups",
     cleanUrls: false,
     themeConfig: {
         logo: '/logo.png',
@@ -15,7 +15,8 @@ export default defineConfig({
             {
                 text: 'CTF Write-ups',
                 items: [
-                    { text: 'Dirty Laundry (Pwn)', link: '/posts/dirty-laundry' }
+                    { text: 'Dirty Laundry (Pwn)', link: '/posts/dirty-laundry' },
+                    { text: 'Talking Mirror (Pwn)', link: '/posts/talking-mirror' }
                 ]
             }
         ],
