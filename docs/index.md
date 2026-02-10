@@ -4,10 +4,10 @@ layout: home
 hero:
   name: "LWa7ch's Blogs"
   text: "AI & Cybersecurity Engineering Student"
-  tagline: "High-density technical analysis, binary exploitation, and autonomous AI engineering."
+  tagline: "AI & Cybersecurity Engineering Student"
   actions:
     - theme: brand
-      text: "ACCESS EXPERT WRITE-UPS"
+      text: "ACCESS WRITE-UPS"
       link: /posts/pokedex
     - theme: alt
       text: "VIEW RECON DEPOT"
@@ -16,16 +16,6 @@ hero:
     src: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop # Cyberpunk image
     alt: LWa7ch Pwn Lab
 
-features:
-  - icon: 🛡️
-    title: "Security Engineering"
-    details: "Bridging the gap between theory and weaponized exploitation."
-  - icon: 🧩
-    title: "Vulnerability Research"
-    details: "Systematic analysis targeting modern platform mitigations."
-  - icon: 🧠
-    title: "AI & Cybersecurity"
-    details: "Exploring the future of autonomous hacking and intelligent defense."
 ---
 
 # Latest Posts
