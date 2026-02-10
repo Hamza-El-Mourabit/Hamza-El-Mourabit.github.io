@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "Antigravity Mastery"
+  name: "Laundry Write-up"
   text: "Level 67 Cyber-Expertise"
   tagline: "Unveiling the machine's deepest secrets through binary exploitation."
   actions:
@@ -14,7 +14,7 @@ hero:
       link: https://github.com/Hamza-El-Mourabit
   image:
     src: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop # Cyberpunk image
-    alt: Antigravity
+    alt: Hamza Pwn Lab
 
 features:
   - icon: ☢️

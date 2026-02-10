@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    title: "Antigravity Mastery",
+    base: '/hamzaelmourabit.github.io/',
+    title: "Hamza's Pwn Lab",
     description: "Cybersecurity & CTF Exploitation - Expert Write-ups",
     srcDir: 'docs',
     themeConfig: {
@@ -24,11 +25,11 @@ export default defineConfig({
         ],
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2026-present Antigravity'
+            copyright: 'Copyright © 2026-present Hamza'
         },
         search: {
             provider: 'local'
         }
     },
-    dark: true
+    appearance: true
 })
