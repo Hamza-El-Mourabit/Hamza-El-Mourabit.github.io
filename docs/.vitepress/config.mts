@@ -1,10 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-    base: '/',
     title: "LWa7ch's Blogs",
     description: "Cybersecurity & CTF Exploitation - Master Write-ups",
-    cleanUrls: true,
+    cleanUrls: false,
     themeConfig: {
         logo: '/logo.png',
         nav: [
