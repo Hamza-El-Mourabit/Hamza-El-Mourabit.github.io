@@ -16,9 +16,11 @@ export default defineConfig({
                 text: 'CTF Write-ups',
                 items: [
                     { text: 'Pokedex (UAF Heap)', link: '/posts/pokedex' },
+                    { text: 'Magic Maze (Overflow)', link: '/posts/magic-maze' },
+                    { text: 'NoShare2 (SSRF/Filter)', link: '/posts/no-share-2' },
+                    { text: 'JDHack-RPG (RE/Logic)', link: '/posts/jdhack-rpg' },
                     { text: 'Talking Mirror (Format String)', link: '/posts/talking-mirror' },
-                    { text: 'Dirty Laundry (Ret2Libc)', link: '/posts/dirty-laundry' },
-                    { text: 'UltraCTF Architecture', link: '/posts/ultra-ctf' }
+                    { text: 'Dirty Laundry (Ret2Libc)', link: '/posts/dirty-laundry' }
                 ]
             }
         ],
