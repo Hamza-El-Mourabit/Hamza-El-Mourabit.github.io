@@ -16,6 +16,7 @@ hero:
     src: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1000&auto=format&fit=crop # Cyberpunk image
     alt: LWa7ch Pwn Lab
 
+features:
   - icon: 🛡️
     title: "Security Engineering"
     details: "Bridging the gap between theory and weaponized exploitation."
@@ -37,6 +38,9 @@ hero:
 
 - **[NoShare2 - SSRF & Advanced Filter Evasion](/posts/no-share-2)**  
   *Bypass de filtres de sécurité par manipulation d'IP et encodage URL.*
+
+- **[JDHack-RPG - Reverse Engineering & Library Logic](/posts/jdhack-rpg)**  
+  *Analyse de bibliothèque dynamique et reconstitution de logique XOR.*
 
 - **[Talking Mirror - Format String & GOT Hijack](/posts/talking-mirror)**  
   *Détournement du flux d'exécution via primitive d'écriture arbitraire printf.*
